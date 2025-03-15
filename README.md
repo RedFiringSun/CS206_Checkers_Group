@@ -19,7 +19,7 @@ This system uses Claude AI to generate factual claims about various topics and t
 1. Clone this repository:
 
 ```
-git clone git@github.com:RedFiringSun/CS206_Checkers_Group.git
+git clone https://github.com/RedFiringSun/CS206_Checkers_Group.git
 ```
 ```
 cd fact-verification
