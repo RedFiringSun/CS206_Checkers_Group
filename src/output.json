@@ -1,243 +1,243 @@
 [
   {
     "version": "2",
-    "claim": "NASA's Perseverance rover successfully collected rock samples from Mars in 2021 that could potentially reveal past microbial life.",
+    "claim": "The first image of a black hole was captured by the Event Horizon Telescope in 2019, showing M87's supermassive black hole.",
     "results": [
       {
-        "text": "NASA's Perseverance rover successfully collected rock samples from Mars in 2021 that could potentially reveal past microbial life.",
+        "text": "The first image of a black hole was captured by the Event Horizon Telescope in 2019, showing M87's supermassive black hole.",
         "index": 0,
-        "score": 0.6615351935
+        "score": 0.5774290491
       }
     ]
   },
   {
     "version": "2",
-    "claim": "The first CRISPR gene-editing treatment for sickle cell disease was approved by the FDA in December 2022.",
+    "claim": "CRISPR gene-editing technology was first developed in 2012 by Jennifer Doudna and Emmanuelle Charpentier.",
     "results": [
       {
-        "text": "The first CRISPR gene-editing treatment for sickle cell disease was approved by the FDA in December 2022.",
+        "text": "CRISPR gene-editing technology was first developed in 2012 by Jennifer Doudna and Emmanuelle Charpentier.",
         "index": 0,
-        "score": 0.6733538925
+        "score": 0.7215582773
       }
     ]
   },
   {
     "version": "2",
-    "claim": "SpaceX's Starship rocket completed its first integrated flight test on April 20, 2023, though it exploded during the mission.",
+    "claim": "SpaceX successfully launched the first commercially developed liquid-fueled rocket to reach orbit in 2008.",
     "results": [
       {
-        "text": "SpaceX's Starship rocket completed its first integrated flight test on April 20, 2023, though it exploded during the mission.",
+        "text": "SpaceX successfully launched the first commercially developed liquid-fueled rocket to reach orbit in 2008.",
         "index": 0,
-        "score": 0.8090888604
+        "score": 0.8335822491
       }
     ]
   },
   {
     "version": "2",
-    "claim": "Quantum computers have achieved quantum supremacy, with Google's 53-qubit Sycamore processor solving a calculation in 200 seconds that would take a classical supercomputer 10,000 years.",
+    "claim": "The Large Hadron Collider at CERN discovered the Higgs boson particle in 2012 after decades of theoretical prediction.",
     "results": [
       {
-        "text": "Quantum computers have achieved quantum supremacy, with Google's 53-qubit Sycamore processor solving a calculation in 200 seconds that would take a classical supercomputer 10,000 years.",
+        "text": "The Large Hadron Collider at CERN discovered the Higgs boson particle in 2012 after decades of theoretical prediction.",
         "index": 0,
-        "score": 0.6887416669
+        "score": 0.6103528474
       }
     ]
   },
   {
     "version": "2",
-    "claim": "The James Webb Space Telescope captured the most detailed image of the Pillars of Creation in the Eagle Nebula in October 2022, revealing unprecedented details of star formation.",
+    "claim": "The first successful mRNA vaccine was developed by Pfizer-BioNTech for COVID-19 in December 2020.",
     "results": [
       {
-        "text": "The James Webb Space Telescope captured the most detailed image of the Pillars of Creation in the Eagle Nebula in October 2022, revealing unprecedented details of star formation.",
+        "text": "The first successful mRNA vaccine was developed by Pfizer-BioNTech for COVID-19 in December 2020.",
         "index": 0,
-        "score": 0.4767443358
+        "score": 0.7877632009
       }
     ]
   },
   {
     "version": "2",
-    "claim": "In 1215, King John of England signed the Magna Carta, limiting royal power and establishing key principles of individual rights.",
+    "claim": "In 1215, King John of England signed the Magna Carta, limiting royal power and establishing fundamental legal rights.",
     "results": [
       {
-        "text": "In 1215, King John of England signed the Magna Carta, limiting royal power and establishing key principles of individual rights.",
+        "text": "In 1215, King John of England signed the Magna Carta, limiting royal power and establishing fundamental legal rights.",
         "index": 0,
-        "score": 0.537749669
+        "score": 0.5899812524
       }
     ]
   },
   {
     "version": "2",
-    "claim": "The Treaty of Versailles, signed in 1919, officially ended World War I and imposed harsh reparations on Germany.",
+    "claim": "The United States purchased Alaska from Russia in 1867 for $7.2 million, a transaction known as \"Seward's Folly\" after Secretary of State William Seward.",
     "results": [
       {
-        "text": "The Treaty of Versailles, signed in 1919, officially ended World War I and imposed harsh reparations on Germany.",
+        "text": "The United States purchased Alaska from Russia in 1867 for $7.2 million, a transaction known as \"Seward's Folly\" after Secretary of State William Seward.",
         "index": 0,
-        "score": 0.6454020599
+        "score": 0.6636714225
       }
     ]
   },
   {
     "version": "2",
-    "claim": "The United States purchased Alaska from Russia in 1867 for $7.2 million, a transaction initially mocked as \"Seward's Folly\" after Secretary of State William Seward.",
+    "claim": "The French Revolution began in 1789 and lasted until 1799, ultimately leading to the end of the monarchy and the rise of Napoleon Bonaparte.",
     "results": [
       {
-        "text": "The United States purchased Alaska from Russia in 1867 for $7.2 million, a transaction initially mocked as \"Seward's Folly\" after Secretary of State William Seward.",
+        "text": "The French Revolution began in 1789 and lasted until 1799, ultimately leading to the end of the monarchy and the rise of Napoleon Bonaparte.",
         "index": 0,
-        "score": 0.6881302715
+        "score": 0.4595514966
       }
     ]
   },
   {
     "version": "2",
-    "claim": "Nelson Mandela was imprisoned for 27 years before becoming South Africa's first democratically elected president in 1994.",
+    "claim": "The Berlin Wall, which divided East and West Germany, was constructed in 1961 and fell in 1989, symbolizing the end of the Cold War.",
     "results": [
       {
-        "text": "Nelson Mandela was imprisoned for 27 years before becoming South Africa's first democratically elected president in 1994.",
+        "text": "The Berlin Wall, which divided East and West Germany, was constructed in 1961 and fell in 1989, symbolizing the end of the Cold War.",
         "index": 0,
-        "score": 0.7361054311
+        "score": 0.7611907548
       }
     ]
   },
   {
     "version": "2",
-    "claim": "The French Revolution began in 1789 with the storming of the Bastille prison, leading to the overthrow of the monarchy and establishment of a republic.",
+    "claim": "Nelson Mandela was imprisoned for 27 years before becoming South Africa's first Black president in 1994, helping to dismantle the apartheid system.",
     "results": [
       {
-        "text": "The French Revolution began in 1789 with the storming of the Bastille prison, leading to the overthrow of the monarchy and establishment of a republic.",
+        "text": "Nelson Mandela was imprisoned for 27 years before becoming South Africa's first Black president in 1994, helping to dismantle the apartheid system.",
         "index": 0,
-        "score": 0.608165763
+        "score": 0.7136371968
       }
     ]
   },
   {
     "version": "2",
-    "claim": "By 2025, global digital health market revenues are projected to reach $536.6 billion.",
+    "claim": "By 2022, the global COVID-19 pandemic had caused over 6.6 million confirmed deaths worldwide.",
     "results": [
       {
-        "text": "By 2025, global digital health market revenues are projected to reach $536.6 billion.",
+        "text": "By 2022, the global COVID-19 pandemic had caused over 6.6 million confirmed deaths worldwide.",
         "index": 0,
-        "score": 0.766616082
+        "score": 0.8954773586
       }
     ]
   },
   {
     "version": "2",
-    "claim": "The average human lifespan has increased from 47 years in 1900 to nearly 79 years in 2021 in the United States.",
+    "claim": "The average human lifespan in Japan is 84.7 years, the highest in the world as of 2021.",
     "results": [
       {
-        "text": "The average human lifespan has increased from 47 years in 1900 to nearly 79 years in 2021 in the United States.",
+        "text": "The average human lifespan in Japan is 84.7 years, the highest in the world as of 2021.",
         "index": 0,
-        "score": 0.7872817873
+        "score": 0.8299060427
       }
     ]
   },
   {
     "version": "2",
-    "claim": "Approximately 60% of human diseases originate from zoonotic pathogens that can transfer between animals and humans.",
+    "claim": "Cardiovascular diseases are the leading cause of death globally, accounting for approximately 31% of all deaths.",
     "results": [
       {
-        "text": "Approximately 60% of human diseases originate from zoonotic pathogens that can transfer between animals and humans.",
+        "text": "Cardiovascular diseases are the leading cause of death globally, accounting for approximately 31% of all deaths.",
         "index": 0,
-        "score": 0.8838521217
+        "score": 0.891743991
       }
     ]
   },
   {
     "version": "2",
-    "claim": "The United States spends approximately 17.7% of its GDP on healthcare, the highest percentage of any developed nation.",
+    "claim": "The mRNA vaccine technology used in COVID-19 vaccines was first developed by researchers Katalin Karik\u00f3 and Drew Weissman in 2005.",
     "results": [
       {
-        "text": "The United States spends approximately 17.7% of its GDP on healthcare, the highest percentage of any developed nation.",
+        "text": "The mRNA vaccine technology used in COVID-19 vaccines was first developed by researchers Katalin Karik\u00f3 and Drew Weissman in 2005.",
         "index": 0,
-        "score": 0.8792429215
+        "score": 0.7459797115
       }
     ]
   },
   {
     "version": "2",
-    "claim": "mRNA vaccine technology, which enabled rapid COVID-19 vaccine development, was first conceptualized by researchers in 1989.",
+    "claim": "The United States spends approximately 17.8% of its GDP on healthcare, the highest percentage of any developed nation.",
     "results": [
       {
-        "text": "mRNA vaccine technology, which enabled rapid COVID-19 vaccine development, was first conceptualized by researchers in 1989.",
+        "text": "The United States spends approximately 17.8% of its GDP on healthcare, the highest percentage of any developed nation.",
         "index": 0,
-        "score": 0.778054848
+        "score": 0.8782667614
       }
     ]
   },
   {
     "version": "2",
-    "claim": "The global ocean absorbs approximately 30% of human-produced carbon dioxide emissions.",
+    "claim": "Deforestation accounts for approximately 15% of global greenhouse gas emissions.",
     "results": [
       {
-        "text": "The global ocean absorbs approximately 30% of human-produced carbon dioxide emissions.",
+        "text": "Deforestation accounts for approximately 15% of global greenhouse gas emissions.",
         "index": 0,
-        "score": 0.8590550534
+        "score": 0.8695310849
       }
     ]
   },
   {
     "version": "2",
-    "claim": "Deforestation accounts for about 15% of global greenhouse gas emissions.",
+    "claim": "The Great Barrier Reef has lost over 50% of its coral cover since 1985 due to climate change and ocean acidification.",
     "results": [
       {
-        "text": "Deforestation accounts for about 15% of global greenhouse gas emissions.",
+        "text": "The Great Barrier Reef has lost over 50% of its coral cover since 1985 due to climate change and ocean acidification.",
         "index": 0,
-        "score": 0.8789833474
+        "score": 0.7825383274
       }
     ]
   },
   {
     "version": "2",
-    "claim": "The Arctic is warming at a rate twice as fast as the global average temperature increase.",
+    "claim": "Renewable energy sources like solar and wind generated 29% of global electricity in 2020.",
     "results": [
       {
-        "text": "The Arctic is warming at a rate twice as fast as the global average temperature increase.",
+        "text": "Renewable energy sources like solar and wind generated 29% of global electricity in 2020.",
         "index": 0,
-        "score": 0.7667666284
+        "score": 0.8592055323
       }
     ]
   },
   {
     "version": "2",
-    "claim": "Microplastics have been found in 100% of marine turtles studied in a comprehensive 2019 global research survey.",
+    "claim": "Microplastics have been found in human blood for the first time, with particles detected in 80% of tested individuals.",
     "results": [
       {
-        "text": "Microplastics have been found in 100% of marine turtles studied in a comprehensive 2019 global research survey.",
+        "text": "Microplastics have been found in human blood for the first time, with particles detected in 80% of tested individuals.",
         "index": 0,
-        "score": 0.8299567582
+        "score": 0.753454402
       }
     ]
   },
   {
     "version": "2",
-    "claim": "Solar and wind energy generation increased by 7.9% globally in 2022, according to the International Energy Agency.",
+    "claim": "The Amazon rainforest is currently losing approximately 17,000 square kilometers of forest cover annually.",
     "results": [
       {
-        "text": "Solar and wind energy generation increased by 7.9% globally in 2022, according to the International Energy Agency.",
+        "text": "The Amazon rainforest is currently losing approximately 17,000 square kilometers of forest cover annually.",
         "index": 0,
-        "score": 0.8353455389
+        "score": 0.8613659344
       }
     ]
   },
   {
     "version": "2",
-    "claim": "In 2022, Amazon was the world's largest e-commerce company with $514 billion in annual revenue.",
+    "claim": "Amazon's annual revenue in 2022 was $514 billion, a 9% increase from the previous year.",
     "results": [
       {
-        "text": "In 2022, Amazon was the world's largest e-commerce company with $514 billion in annual revenue.",
+        "text": "Amazon's annual revenue in 2022 was $514 billion, a 9% increase from the previous year.",
         "index": 0,
-        "score": 0.8526187074
+        "score": 0.856684673
       }
     ]
   },
   {
     "version": "2",
-    "claim": "The global venture capital investment in 2021 reached approximately $621 billion, a record high for the year.",
+    "claim": "The global digital payments market is projected to reach $11.3 trillion by 2026, with a compound annual growth rate of 15%.",
     "results": [
       {
-        "text": "The global venture capital investment in 2021 reached approximately $621 billion, a record high for the year.",
+        "text": "The global digital payments market is projected to reach $11.3 trillion by 2026, with a compound annual growth rate of 15%.",
         "index": 0,
-        "score": 0.8587315204
+        "score": 0.7884417755
       }
     ]
   },
@@ -254,23 +254,23 @@
   },
   {
     "version": "2",
-    "claim": "The World Bank reported that global GDP in 2021 was approximately $94.93 trillion.",
+    "claim": "The average startup failure rate is approximately 90% within the first five years of operation.",
     "results": [
       {
-        "text": "The World Bank reported that global GDP in 2021 was approximately $94.93 trillion.",
+        "text": "The average startup failure rate is approximately 90% within the first five years of operation.",
         "index": 0,
-        "score": 0.8731900674
+        "score": 0.7002822376
       }
     ]
   },
   {
     "version": "2",
-    "claim": "China has been the world's largest manufacturing country by output since 2010, producing 28.7% of global manufacturing value in 2021.",
+    "claim": "China surpassed the United States as the world's largest economy in purchasing power parity (PPP) terms in 2014.",
     "results": [
       {
-        "text": "China has been the world's largest manufacturing country by output since 2010, producing 28.7% of global manufacturing value in 2021.",
+        "text": "China surpassed the United States as the world's largest economy in purchasing power parity (PPP) terms in 2014.",
         "index": 0,
-        "score": 0.8528138375
+        "score": 0.8498629095
       }
     ]
   }

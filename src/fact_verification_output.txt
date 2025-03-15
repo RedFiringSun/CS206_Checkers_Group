@@ -4,40 +4,40 @@ TOPIC: SCIENCE & TECHNOLOGY
 ======================================================================
 
 CLAIM 1:
-Text: NASA's Perseverance rover successfully collected rock samples from Mars in 2021 that could potentially reveal past microbial life.
-Factual Score: 0.6615
+Text: The first image of a black hole was captured by the Event Horizon Telescope in 2019, showing M87's supermassive black hole.
+Factual Score: 0.5774
+Confidence Level: Low factual confidence
+Estimated Tokens: 27
+
+CLAIM 2:
+Text: CRISPR gene-editing technology was first developed in 2012 by Jennifer Doudna and Emmanuelle Charpentier.
+Factual Score: 0.7216
+Confidence Level: Medium factual confidence
+Estimated Tokens: 18
+
+CLAIM 3:
+Text: SpaceX successfully launched the first commercially developed liquid-fueled rocket to reach orbit in 2008.
+Factual Score: 0.8336
+Confidence Level: High factual confidence
+Estimated Tokens: 18
+
+CLAIM 4:
+Text: The Large Hadron Collider at CERN discovered the Higgs boson particle in 2012 after decades of theoretical prediction.
+Factual Score: 0.6104
 Confidence Level: Medium factual confidence
 Estimated Tokens: 23
 
-CLAIM 2:
-Text: The first CRISPR gene-editing treatment for sickle cell disease was approved by the FDA in December 2022.
-Factual Score: 0.6734
-Confidence Level: Medium factual confidence
-Estimated Tokens: 22
-
-CLAIM 3:
-Text: SpaceX's Starship rocket completed its first integrated flight test on April 20, 2023, though it exploded during the mission.
-Factual Score: 0.8091
-Confidence Level: High factual confidence
-Estimated Tokens: 25
-
-CLAIM 4:
-Text: Quantum computers have achieved quantum supremacy, with Google's 53-qubit Sycamore processor solving a calculation in 200 seconds that would take a classical supercomputer 10,000 years.
-Factual Score: 0.6887
-Confidence Level: Medium factual confidence
-Estimated Tokens: 32
-
 CLAIM 5:
-Text: The James Webb Space Telescope captured the most detailed image of the Pillars of Creation in the Eagle Nebula in October 2022, revealing unprecedented details of star formation.
-Factual Score: 0.4767
-Confidence Level: Low factual confidence
-Estimated Tokens: 36
+Text: The first successful mRNA vaccine was developed by Pfizer-BioNTech for COVID-19 in December 2020.
+Factual Score: 0.7878
+Confidence Level: Medium factual confidence
+Estimated Tokens: 18
 
 
 Batch Summary:
 --------------------
-Total Tokens: 139
-Estimated Cost: $0.0002
+Total Tokens: 105
+Estimated Cost: $0.0001
 
 ======================================================================
 FACT VERIFICATION REPORT: CLAUDE-3-HAIKU ON SCIENCE & TECHNOLOGY
@@ -46,17 +46,17 @@ FACT VERIFICATION REPORT: CLAUDE-3-HAIKU ON SCIENCE & TECHNOLOGY
 Summary Statistics:
 --------------------
 Total claims analyzed: 5
-Average factual score: 0.6619
-Median factual score: 0.6734
-Std deviation: 0.1192
-Min score: 0.4767
-Max score: 0.8091
+Average factual score: 0.7061
+Median factual score: 0.7216
+Std deviation: 0.1105
+Min score: 0.5774
+Max score: 0.8336
 
 Confidence Level Distribution:
 --------------------
+Low factual confidence: 1 claims (20.0%)
 Medium factual confidence: 3 claims (60.0%)
 High factual confidence: 1 claims (20.0%)
-Low factual confidence: 1 claims (20.0%)
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -67,39 +67,39 @@ TOPIC: HISTORY & POLITICS
 ======================================================================
 
 CLAIM 1:
-Text: In 1215, King John of England signed the Magna Carta, limiting royal power and establishing key principles of individual rights.
-Factual Score: 0.5377
+Text: In 1215, King John of England signed the Magna Carta, limiting royal power and establishing fundamental legal rights.
+Factual Score: 0.5900
 Confidence Level: Low factual confidence
-Estimated Tokens: 26
-
-CLAIM 2:
-Text: The Treaty of Versailles, signed in 1919, officially ended World War I and imposed harsh reparations on Germany.
-Factual Score: 0.6454
-Confidence Level: Medium factual confidence
 Estimated Tokens: 23
 
-CLAIM 3:
-Text: The United States purchased Alaska from Russia in 1867 for $7.2 million, a transaction initially mocked as "Seward's Folly" after Secretary of State William Seward.
-Factual Score: 0.6881
+CLAIM 2:
+Text: The United States purchased Alaska from Russia in 1867 for $7.2 million, a transaction known as "Seward's Folly" after Secretary of State William Seward.
+Factual Score: 0.6637
 Confidence Level: Medium factual confidence
-Estimated Tokens: 32
+Estimated Tokens: 31
+
+CLAIM 3:
+Text: The French Revolution began in 1789 and lasted until 1799, ultimately leading to the end of the monarchy and the rise of Napoleon Bonaparte.
+Factual Score: 0.4596
+Confidence Level: Low factual confidence
+Estimated Tokens: 31
 
 CLAIM 4:
-Text: Nelson Mandela was imprisoned for 27 years before becoming South Africa's first democratically elected president in 1994.
-Factual Score: 0.7361
+Text: The Berlin Wall, which divided East and West Germany, was constructed in 1961 and fell in 1989, symbolizing the end of the Cold War.
+Factual Score: 0.7612
 Confidence Level: Medium factual confidence
-Estimated Tokens: 22
+Estimated Tokens: 31
 
 CLAIM 5:
-Text: The French Revolution began in 1789 with the storming of the Bastille prison, leading to the overthrow of the monarchy and establishment of a republic.
-Factual Score: 0.6082
+Text: Nelson Mandela was imprisoned for 27 years before becoming South Africa's first Black president in 1994, helping to dismantle the apartheid system.
+Factual Score: 0.7136
 Confidence Level: Medium factual confidence
-Estimated Tokens: 32
+Estimated Tokens: 29
 
 
 Batch Summary:
 --------------------
-Total Tokens: 136
+Total Tokens: 146
 Estimated Cost: $0.0002
 
 ======================================================================
@@ -109,16 +109,16 @@ FACT VERIFICATION REPORT: CLAUDE-3-HAIKU ON HISTORY & POLITICS
 Summary Statistics:
 --------------------
 Total claims analyzed: 5
-Average factual score: 0.6431
-Median factual score: 0.6454
-Std deviation: 0.0758
-Min score: 0.5377
-Max score: 0.7361
+Average factual score: 0.6376
+Median factual score: 0.6637
+Std deviation: 0.1180
+Min score: 0.4596
+Max score: 0.7612
 
 Confidence Level Distribution:
 --------------------
-Low factual confidence: 1 claims (20.0%)
-Medium factual confidence: 4 claims (80.0%)
+Low factual confidence: 2 claims (40.0%)
+Medium factual confidence: 3 claims (60.0%)
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -129,39 +129,39 @@ TOPIC: MEDICINE & HEALTH
 ======================================================================
 
 CLAIM 1:
-Text: By 2025, global digital health market revenues are projected to reach $536.6 billion.
-Factual Score: 0.7666
-Confidence Level: Medium factual confidence
-Estimated Tokens: 17
+Text: By 2022, the global COVID-19 pandemic had caused over 6.6 million confirmed deaths worldwide.
+Factual Score: 0.8955
+Confidence Level: High factual confidence
+Estimated Tokens: 18
 
 CLAIM 2:
-Text: The average human lifespan has increased from 47 years in 1900 to nearly 79 years in 2021 in the United States.
-Factual Score: 0.7873
-Confidence Level: Medium factual confidence
-Estimated Tokens: 27
+Text: The average human lifespan in Japan is 84.7 years, the highest in the world as of 2021.
+Factual Score: 0.8299
+Confidence Level: High factual confidence
+Estimated Tokens: 22
 
 CLAIM 3:
-Text: Approximately 60% of human diseases originate from zoonotic pathogens that can transfer between animals and humans.
-Factual Score: 0.8839
+Text: Cardiovascular diseases are the leading cause of death globally, accounting for approximately 31% of all deaths.
+Factual Score: 0.8917
 Confidence Level: High factual confidence
 Estimated Tokens: 21
 
 CLAIM 4:
-Text: The United States spends approximately 17.7% of its GDP on healthcare, the highest percentage of any developed nation.
-Factual Score: 0.8792
-Confidence Level: High factual confidence
-Estimated Tokens: 23
+Text: The mRNA vaccine technology used in COVID-19 vaccines was first developed by researchers Katalin Karikó and Drew Weissman in 2005.
+Factual Score: 0.7460
+Confidence Level: Medium factual confidence
+Estimated Tokens: 26
 
 CLAIM 5:
-Text: mRNA vaccine technology, which enabled rapid COVID-19 vaccine development, was first conceptualized by researchers in 1989.
-Factual Score: 0.7781
-Confidence Level: Medium factual confidence
-Estimated Tokens: 21
+Text: The United States spends approximately 17.8% of its GDP on healthcare, the highest percentage of any developed nation.
+Factual Score: 0.8783
+Confidence Level: High factual confidence
+Estimated Tokens: 23
 
 
 Batch Summary:
 --------------------
-Total Tokens: 109
+Total Tokens: 110
 Estimated Cost: $0.0001
 
 ======================================================================
@@ -171,73 +171,11 @@ FACT VERIFICATION REPORT: CLAUDE-3-HAIKU ON MEDICINE & HEALTH
 Summary Statistics:
 --------------------
 Total claims analyzed: 5
-Average factual score: 0.8190
-Median factual score: 0.7873
-Std deviation: 0.0576
-Min score: 0.7666
-Max score: 0.8839
-
-Confidence Level Distribution:
---------------------
-Medium factual confidence: 3 claims (60.0%)
-High factual confidence: 2 claims (40.0%)
-
-
-////////////////////////////////////////////////////////////////////////////////////////////////////
-
-
-======================================================================
-TOPIC: ENVIRONMENTAL SCIENCE
-======================================================================
-
-CLAIM 1:
-Text: The global ocean absorbs approximately 30% of human-produced carbon dioxide emissions.
-Factual Score: 0.8591
-Confidence Level: High factual confidence
-Estimated Tokens: 14
-
-CLAIM 2:
-Text: Deforestation accounts for about 15% of global greenhouse gas emissions.
-Factual Score: 0.8790
-Confidence Level: High factual confidence
-Estimated Tokens: 13
-
-CLAIM 3:
-Text: The Arctic is warming at a rate twice as fast as the global average temperature increase.
-Factual Score: 0.7668
-Confidence Level: Medium factual confidence
-Estimated Tokens: 21
-
-CLAIM 4:
-Text: Microplastics have been found in 100% of marine turtles studied in a comprehensive 2019 global research survey.
-Factual Score: 0.8300
-Confidence Level: High factual confidence
-Estimated Tokens: 22
-
-CLAIM 5:
-Text: Solar and wind energy generation increased by 7.9% globally in 2022, according to the International Energy Agency.
-Factual Score: 0.8353
-Confidence Level: High factual confidence
-Estimated Tokens: 22
-
-
-Batch Summary:
---------------------
-Total Tokens: 92
-Estimated Cost: $0.0001
-
-======================================================================
-FACT VERIFICATION REPORT: CLAUDE-3-HAIKU ON ENVIRONMENTAL SCIENCE
-======================================================================
-
-Summary Statistics:
---------------------
-Total claims analyzed: 5
-Average factual score: 0.8340
-Median factual score: 0.8353
-Std deviation: 0.0424
-Min score: 0.7668
-Max score: 0.8790
+Average factual score: 0.8483
+Median factual score: 0.8783
+Std deviation: 0.0629
+Min score: 0.7460
+Max score: 0.8955
 
 Confidence Level Distribution:
 --------------------
@@ -249,20 +187,82 @@ Medium factual confidence: 1 claims (20.0%)
 
 
 ======================================================================
+TOPIC: ENVIRONMENTAL SCIENCE
+======================================================================
+
+CLAIM 1:
+Text: Deforestation accounts for approximately 15% of global greenhouse gas emissions.
+Factual Score: 0.8695
+Confidence Level: High factual confidence
+Estimated Tokens: 13
+
+CLAIM 2:
+Text: The Great Barrier Reef has lost over 50% of its coral cover since 1985 due to climate change and ocean acidification.
+Factual Score: 0.7825
+Confidence Level: Medium factual confidence
+Estimated Tokens: 27
+
+CLAIM 3:
+Text: Renewable energy sources like solar and wind generated 29% of global electricity in 2020.
+Factual Score: 0.8592
+Confidence Level: High factual confidence
+Estimated Tokens: 18
+
+CLAIM 4:
+Text: Microplastics have been found in human blood for the first time, with particles detected in 80% of tested individuals.
+Factual Score: 0.7535
+Confidence Level: Medium factual confidence
+Estimated Tokens: 25
+
+CLAIM 5:
+Text: The Amazon rainforest is currently losing approximately 17,000 square kilometers of forest cover annually.
+Factual Score: 0.8614
+Confidence Level: High factual confidence
+Estimated Tokens: 18
+
+
+Batch Summary:
+--------------------
+Total Tokens: 101
+Estimated Cost: $0.0001
+
+======================================================================
+FACT VERIFICATION REPORT: CLAUDE-3-HAIKU ON ENVIRONMENTAL SCIENCE
+======================================================================
+
+Summary Statistics:
+--------------------
+Total claims analyzed: 5
+Average factual score: 0.8252
+Median factual score: 0.8592
+Std deviation: 0.0534
+Min score: 0.7535
+Max score: 0.8695
+
+Confidence Level Distribution:
+--------------------
+High factual confidence: 3 claims (60.0%)
+Medium factual confidence: 2 claims (40.0%)
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+======================================================================
 TOPIC: BUSINESS & ECONOMICS
 ======================================================================
 
 CLAIM 1:
-Text: In 2022, Amazon was the world's largest e-commerce company with $514 billion in annual revenue.
-Factual Score: 0.8526
+Text: Amazon's annual revenue in 2022 was $514 billion, a 9% increase from the previous year.
+Factual Score: 0.8567
 Confidence Level: High factual confidence
 Estimated Tokens: 20
 
 CLAIM 2:
-Text: The global venture capital investment in 2021 reached approximately $621 billion, a record high for the year.
-Factual Score: 0.8587
-Confidence Level: High factual confidence
-Estimated Tokens: 22
+Text: The global digital payments market is projected to reach $11.3 trillion by 2026, with a compound annual growth rate of 15%.
+Factual Score: 0.7884
+Confidence Level: Medium factual confidence
+Estimated Tokens: 27
 
 CLAIM 3:
 Text: Apple became the first publicly traded company to reach a $3 trillion market capitalization in January 2022.
@@ -271,21 +271,21 @@ Confidence Level: High factual confidence
 Estimated Tokens: 22
 
 CLAIM 4:
-Text: The World Bank reported that global GDP in 2021 was approximately $94.93 trillion.
-Factual Score: 0.8732
-Confidence Level: High factual confidence
-Estimated Tokens: 17
+Text: The average startup failure rate is approximately 90% within the first five years of operation.
+Factual Score: 0.7003
+Confidence Level: Medium factual confidence
+Estimated Tokens: 20
 
 CLAIM 5:
-Text: China has been the world's largest manufacturing country by output since 2010, producing 28.7% of global manufacturing value in 2021.
-Factual Score: 0.8528
+Text: China surpassed the United States as the world's largest economy in purchasing power parity (PPP) terms in 2014.
+Factual Score: 0.8499
 Confidence Level: High factual confidence
-Estimated Tokens: 26
+Estimated Tokens: 23
 
 
 Batch Summary:
 --------------------
-Total Tokens: 107
+Total Tokens: 112
 Estimated Cost: $0.0001
 
 ======================================================================
@@ -295,15 +295,16 @@ FACT VERIFICATION REPORT: CLAUDE-3-HAIKU ON BUSINESS & ECONOMICS
 Summary Statistics:
 --------------------
 Total claims analyzed: 5
-Average factual score: 0.8647
-Median factual score: 0.8587
-Std deviation: 0.0145
-Min score: 0.8526
+Average factual score: 0.8162
+Median factual score: 0.8499
+Std deviation: 0.0739
+Min score: 0.7003
 Max score: 0.8859
 
 Confidence Level Distribution:
 --------------------
-High factual confidence: 5 claims (100.0%)
+High factual confidence: 3 claims (60.0%)
+Medium factual confidence: 2 claims (40.0%)
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -314,5 +315,5 @@ FINAL SESSION STATISTICS
 ======================================================================
 
 Total Claims Processed: 25
-Total Estimated Tokens: 584
+Total Estimated Tokens: 575
 Total Estimated Cost: $0.0028
