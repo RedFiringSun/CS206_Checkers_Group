@@ -1,0 +1,277 @@
+[
+  {
+    "version": "2",
+    "claim": "NASA's Perseverance rover successfully collected rock samples from Mars in 2021 that could potentially reveal past microbial life.",
+    "results": [
+      {
+        "text": "NASA's Perseverance rover successfully collected rock samples from Mars in 2021 that could potentially reveal past microbial life.",
+        "index": 0,
+        "score": 0.6615351935
+      }
+    ]
+  },
+  {
+    "version": "2",
+    "claim": "The first CRISPR gene-editing treatment for sickle cell disease was approved by the FDA in December 2022.",
+    "results": [
+      {
+        "text": "The first CRISPR gene-editing treatment for sickle cell disease was approved by the FDA in December 2022.",
+        "index": 0,
+        "score": 0.6733538925
+      }
+    ]
+  },
+  {
+    "version": "2",
+    "claim": "SpaceX's Starship rocket completed its first integrated flight test on April 20, 2023, though it exploded during the mission.",
+    "results": [
+      {
+        "text": "SpaceX's Starship rocket completed its first integrated flight test on April 20, 2023, though it exploded during the mission.",
+        "index": 0,
+        "score": 0.8090888604
+      }
+    ]
+  },
+  {
+    "version": "2",
+    "claim": "Quantum computers have achieved quantum supremacy, with Google's 53-qubit Sycamore processor solving a calculation in 200 seconds that would take a classical supercomputer 10,000 years.",
+    "results": [
+      {
+        "text": "Quantum computers have achieved quantum supremacy, with Google's 53-qubit Sycamore processor solving a calculation in 200 seconds that would take a classical supercomputer 10,000 years.",
+        "index": 0,
+        "score": 0.6887416669
+      }
+    ]
+  },
+  {
+    "version": "2",
+    "claim": "The James Webb Space Telescope captured the most detailed image of the Pillars of Creation in the Eagle Nebula in October 2022, revealing unprecedented details of star formation.",
+    "results": [
+      {
+        "text": "The James Webb Space Telescope captured the most detailed image of the Pillars of Creation in the Eagle Nebula in October 2022, revealing unprecedented details of star formation.",
+        "index": 0,
+        "score": 0.4767443358
+      }
+    ]
+  },
+  {
+    "version": "2",
+    "claim": "In 1215, King John of England signed the Magna Carta, limiting royal power and establishing key principles of individual rights.",
+    "results": [
+      {
+        "text": "In 1215, King John of England signed the Magna Carta, limiting royal power and establishing key principles of individual rights.",
+        "index": 0,
+        "score": 0.537749669
+      }
+    ]
+  },
+  {
+    "version": "2",
+    "claim": "The Treaty of Versailles, signed in 1919, officially ended World War I and imposed harsh reparations on Germany.",
+    "results": [
+      {
+        "text": "The Treaty of Versailles, signed in 1919, officially ended World War I and imposed harsh reparations on Germany.",
+        "index": 0,
+        "score": 0.6454020599
+      }
+    ]
+  },
+  {
+    "version": "2",
+    "claim": "The United States purchased Alaska from Russia in 1867 for $7.2 million, a transaction initially mocked as \"Seward's Folly\" after Secretary of State William Seward.",
+    "results": [
+      {
+        "text": "The United States purchased Alaska from Russia in 1867 for $7.2 million, a transaction initially mocked as \"Seward's Folly\" after Secretary of State William Seward.",
+        "index": 0,
+        "score": 0.6881302715
+      }
+    ]
+  },
+  {
+    "version": "2",
+    "claim": "Nelson Mandela was imprisoned for 27 years before becoming South Africa's first democratically elected president in 1994.",
+    "results": [
+      {
+        "text": "Nelson Mandela was imprisoned for 27 years before becoming South Africa's first democratically elected president in 1994.",
+        "index": 0,
+        "score": 0.7361054311
+      }
+    ]
+  },
+  {
+    "version": "2",
+    "claim": "The French Revolution began in 1789 with the storming of the Bastille prison, leading to the overthrow of the monarchy and establishment of a republic.",
+    "results": [
+      {
+        "text": "The French Revolution began in 1789 with the storming of the Bastille prison, leading to the overthrow of the monarchy and establishment of a republic.",
+        "index": 0,
+        "score": 0.608165763
+      }
+    ]
+  },
+  {
+    "version": "2",
+    "claim": "By 2025, global digital health market revenues are projected to reach $536.6 billion.",
+    "results": [
+      {
+        "text": "By 2025, global digital health market revenues are projected to reach $536.6 billion.",
+        "index": 0,
+        "score": 0.766616082
+      }
+    ]
+  },
+  {
+    "version": "2",
+    "claim": "The average human lifespan has increased from 47 years in 1900 to nearly 79 years in 2021 in the United States.",
+    "results": [
+      {
+        "text": "The average human lifespan has increased from 47 years in 1900 to nearly 79 years in 2021 in the United States.",
+        "index": 0,
+        "score": 0.7872817873
+      }
+    ]
+  },
+  {
+    "version": "2",
+    "claim": "Approximately 60% of human diseases originate from zoonotic pathogens that can transfer between animals and humans.",
+    "results": [
+      {
+        "text": "Approximately 60% of human diseases originate from zoonotic pathogens that can transfer between animals and humans.",
+        "index": 0,
+        "score": 0.8838521217
+      }
+    ]
+  },
+  {
+    "version": "2",
+    "claim": "The United States spends approximately 17.7% of its GDP on healthcare, the highest percentage of any developed nation.",
+    "results": [
+      {
+        "text": "The United States spends approximately 17.7% of its GDP on healthcare, the highest percentage of any developed nation.",
+        "index": 0,
+        "score": 0.8792429215
+      }
+    ]
+  },
+  {
+    "version": "2",
+    "claim": "mRNA vaccine technology, which enabled rapid COVID-19 vaccine development, was first conceptualized by researchers in 1989.",
+    "results": [
+      {
+        "text": "mRNA vaccine technology, which enabled rapid COVID-19 vaccine development, was first conceptualized by researchers in 1989.",
+        "index": 0,
+        "score": 0.778054848
+      }
+    ]
+  },
+  {
+    "version": "2",
+    "claim": "The global ocean absorbs approximately 30% of human-produced carbon dioxide emissions.",
+    "results": [
+      {
+        "text": "The global ocean absorbs approximately 30% of human-produced carbon dioxide emissions.",
+        "index": 0,
+        "score": 0.8590550534
+      }
+    ]
+  },
+  {
+    "version": "2",
+    "claim": "Deforestation accounts for about 15% of global greenhouse gas emissions.",
+    "results": [
+      {
+        "text": "Deforestation accounts for about 15% of global greenhouse gas emissions.",
+        "index": 0,
+        "score": 0.8789833474
+      }
+    ]
+  },
+  {
+    "version": "2",
+    "claim": "The Arctic is warming at a rate twice as fast as the global average temperature increase.",
+    "results": [
+      {
+        "text": "The Arctic is warming at a rate twice as fast as the global average temperature increase.",
+        "index": 0,
+        "score": 0.7667666284
+      }
+    ]
+  },
+  {
+    "version": "2",
+    "claim": "Microplastics have been found in 100% of marine turtles studied in a comprehensive 2019 global research survey.",
+    "results": [
+      {
+        "text": "Microplastics have been found in 100% of marine turtles studied in a comprehensive 2019 global research survey.",
+        "index": 0,
+        "score": 0.8299567582
+      }
+    ]
+  },
+  {
+    "version": "2",
+    "claim": "Solar and wind energy generation increased by 7.9% globally in 2022, according to the International Energy Agency.",
+    "results": [
+      {
+        "text": "Solar and wind energy generation increased by 7.9% globally in 2022, according to the International Energy Agency.",
+        "index": 0,
+        "score": 0.8353455389
+      }
+    ]
+  },
+  {
+    "version": "2",
+    "claim": "In 2022, Amazon was the world's largest e-commerce company with $514 billion in annual revenue.",
+    "results": [
+      {
+        "text": "In 2022, Amazon was the world's largest e-commerce company with $514 billion in annual revenue.",
+        "index": 0,
+        "score": 0.8526187074
+      }
+    ]
+  },
+  {
+    "version": "2",
+    "claim": "The global venture capital investment in 2021 reached approximately $621 billion, a record high for the year.",
+    "results": [
+      {
+        "text": "The global venture capital investment in 2021 reached approximately $621 billion, a record high for the year.",
+        "index": 0,
+        "score": 0.8587315204
+      }
+    ]
+  },
+  {
+    "version": "2",
+    "claim": "Apple became the first publicly traded company to reach a $3 trillion market capitalization in January 2022.",
+    "results": [
+      {
+        "text": "Apple became the first publicly traded company to reach a $3 trillion market capitalization in January 2022.",
+        "index": 0,
+        "score": 0.8859192025
+      }
+    ]
+  },
+  {
+    "version": "2",
+    "claim": "The World Bank reported that global GDP in 2021 was approximately $94.93 trillion.",
+    "results": [
+      {
+        "text": "The World Bank reported that global GDP in 2021 was approximately $94.93 trillion.",
+        "index": 0,
+        "score": 0.8731900674
+      }
+    ]
+  },
+  {
+    "version": "2",
+    "claim": "China has been the world's largest manufacturing country by output since 2010, producing 28.7% of global manufacturing value in 2021.",
+    "results": [
+      {
+        "text": "China has been the world's largest manufacturing country by output since 2010, producing 28.7% of global manufacturing value in 2021.",
+        "index": 0,
+        "score": 0.8528138375
+      }
+    ]
+  }
+]

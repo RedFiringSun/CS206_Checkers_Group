@@ -1,0 +1,318 @@
+
+======================================================================
+TOPIC: SCIENCE & TECHNOLOGY
+======================================================================
+
+CLAIM 1:
+Text: NASA's Perseverance rover successfully collected rock samples from Mars in 2021 that could potentially reveal past microbial life.
+Factual Score: 0.6615
+Confidence Level: Medium factual confidence
+Estimated Tokens: 23
+
+CLAIM 2:
+Text: The first CRISPR gene-editing treatment for sickle cell disease was approved by the FDA in December 2022.
+Factual Score: 0.6734
+Confidence Level: Medium factual confidence
+Estimated Tokens: 22
+
+CLAIM 3:
+Text: SpaceX's Starship rocket completed its first integrated flight test on April 20, 2023, though it exploded during the mission.
+Factual Score: 0.8091
+Confidence Level: High factual confidence
+Estimated Tokens: 25
+
+CLAIM 4:
+Text: Quantum computers have achieved quantum supremacy, with Google's 53-qubit Sycamore processor solving a calculation in 200 seconds that would take a classical supercomputer 10,000 years.
+Factual Score: 0.6887
+Confidence Level: Medium factual confidence
+Estimated Tokens: 32
+
+CLAIM 5:
+Text: The James Webb Space Telescope captured the most detailed image of the Pillars of Creation in the Eagle Nebula in October 2022, revealing unprecedented details of star formation.
+Factual Score: 0.4767
+Confidence Level: Low factual confidence
+Estimated Tokens: 36
+
+
+Batch Summary:
+--------------------
+Total Tokens: 139
+Estimated Cost: $0.0002
+
+======================================================================
+FACT VERIFICATION REPORT: CLAUDE-3-HAIKU ON SCIENCE & TECHNOLOGY
+======================================================================
+
+Summary Statistics:
+--------------------
+Total claims analyzed: 5
+Average factual score: 0.6619
+Median factual score: 0.6734
+Std deviation: 0.1192
+Min score: 0.4767
+Max score: 0.8091
+
+Confidence Level Distribution:
+--------------------
+Medium factual confidence: 3 claims (60.0%)
+High factual confidence: 1 claims (20.0%)
+Low factual confidence: 1 claims (20.0%)
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+======================================================================
+TOPIC: HISTORY & POLITICS
+======================================================================
+
+CLAIM 1:
+Text: In 1215, King John of England signed the Magna Carta, limiting royal power and establishing key principles of individual rights.
+Factual Score: 0.5377
+Confidence Level: Low factual confidence
+Estimated Tokens: 26
+
+CLAIM 2:
+Text: The Treaty of Versailles, signed in 1919, officially ended World War I and imposed harsh reparations on Germany.
+Factual Score: 0.6454
+Confidence Level: Medium factual confidence
+Estimated Tokens: 23
+
+CLAIM 3:
+Text: The United States purchased Alaska from Russia in 1867 for $7.2 million, a transaction initially mocked as "Seward's Folly" after Secretary of State William Seward.
+Factual Score: 0.6881
+Confidence Level: Medium factual confidence
+Estimated Tokens: 32
+
+CLAIM 4:
+Text: Nelson Mandela was imprisoned for 27 years before becoming South Africa's first democratically elected president in 1994.
+Factual Score: 0.7361
+Confidence Level: Medium factual confidence
+Estimated Tokens: 22
+
+CLAIM 5:
+Text: The French Revolution began in 1789 with the storming of the Bastille prison, leading to the overthrow of the monarchy and establishment of a republic.
+Factual Score: 0.6082
+Confidence Level: Medium factual confidence
+Estimated Tokens: 32
+
+
+Batch Summary:
+--------------------
+Total Tokens: 136
+Estimated Cost: $0.0002
+
+======================================================================
+FACT VERIFICATION REPORT: CLAUDE-3-HAIKU ON HISTORY & POLITICS
+======================================================================
+
+Summary Statistics:
+--------------------
+Total claims analyzed: 5
+Average factual score: 0.6431
+Median factual score: 0.6454
+Std deviation: 0.0758
+Min score: 0.5377
+Max score: 0.7361
+
+Confidence Level Distribution:
+--------------------
+Low factual confidence: 1 claims (20.0%)
+Medium factual confidence: 4 claims (80.0%)
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+======================================================================
+TOPIC: MEDICINE & HEALTH
+======================================================================
+
+CLAIM 1:
+Text: By 2025, global digital health market revenues are projected to reach $536.6 billion.
+Factual Score: 0.7666
+Confidence Level: Medium factual confidence
+Estimated Tokens: 17
+
+CLAIM 2:
+Text: The average human lifespan has increased from 47 years in 1900 to nearly 79 years in 2021 in the United States.
+Factual Score: 0.7873
+Confidence Level: Medium factual confidence
+Estimated Tokens: 27
+
+CLAIM 3:
+Text: Approximately 60% of human diseases originate from zoonotic pathogens that can transfer between animals and humans.
+Factual Score: 0.8839
+Confidence Level: High factual confidence
+Estimated Tokens: 21
+
+CLAIM 4:
+Text: The United States spends approximately 17.7% of its GDP on healthcare, the highest percentage of any developed nation.
+Factual Score: 0.8792
+Confidence Level: High factual confidence
+Estimated Tokens: 23
+
+CLAIM 5:
+Text: mRNA vaccine technology, which enabled rapid COVID-19 vaccine development, was first conceptualized by researchers in 1989.
+Factual Score: 0.7781
+Confidence Level: Medium factual confidence
+Estimated Tokens: 21
+
+
+Batch Summary:
+--------------------
+Total Tokens: 109
+Estimated Cost: $0.0001
+
+======================================================================
+FACT VERIFICATION REPORT: CLAUDE-3-HAIKU ON MEDICINE & HEALTH
+======================================================================
+
+Summary Statistics:
+--------------------
+Total claims analyzed: 5
+Average factual score: 0.8190
+Median factual score: 0.7873
+Std deviation: 0.0576
+Min score: 0.7666
+Max score: 0.8839
+
+Confidence Level Distribution:
+--------------------
+Medium factual confidence: 3 claims (60.0%)
+High factual confidence: 2 claims (40.0%)
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+======================================================================
+TOPIC: ENVIRONMENTAL SCIENCE
+======================================================================
+
+CLAIM 1:
+Text: The global ocean absorbs approximately 30% of human-produced carbon dioxide emissions.
+Factual Score: 0.8591
+Confidence Level: High factual confidence
+Estimated Tokens: 14
+
+CLAIM 2:
+Text: Deforestation accounts for about 15% of global greenhouse gas emissions.
+Factual Score: 0.8790
+Confidence Level: High factual confidence
+Estimated Tokens: 13
+
+CLAIM 3:
+Text: The Arctic is warming at a rate twice as fast as the global average temperature increase.
+Factual Score: 0.7668
+Confidence Level: Medium factual confidence
+Estimated Tokens: 21
+
+CLAIM 4:
+Text: Microplastics have been found in 100% of marine turtles studied in a comprehensive 2019 global research survey.
+Factual Score: 0.8300
+Confidence Level: High factual confidence
+Estimated Tokens: 22
+
+CLAIM 5:
+Text: Solar and wind energy generation increased by 7.9% globally in 2022, according to the International Energy Agency.
+Factual Score: 0.8353
+Confidence Level: High factual confidence
+Estimated Tokens: 22
+
+
+Batch Summary:
+--------------------
+Total Tokens: 92
+Estimated Cost: $0.0001
+
+======================================================================
+FACT VERIFICATION REPORT: CLAUDE-3-HAIKU ON ENVIRONMENTAL SCIENCE
+======================================================================
+
+Summary Statistics:
+--------------------
+Total claims analyzed: 5
+Average factual score: 0.8340
+Median factual score: 0.8353
+Std deviation: 0.0424
+Min score: 0.7668
+Max score: 0.8790
+
+Confidence Level Distribution:
+--------------------
+High factual confidence: 4 claims (80.0%)
+Medium factual confidence: 1 claims (20.0%)
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+======================================================================
+TOPIC: BUSINESS & ECONOMICS
+======================================================================
+
+CLAIM 1:
+Text: In 2022, Amazon was the world's largest e-commerce company with $514 billion in annual revenue.
+Factual Score: 0.8526
+Confidence Level: High factual confidence
+Estimated Tokens: 20
+
+CLAIM 2:
+Text: The global venture capital investment in 2021 reached approximately $621 billion, a record high for the year.
+Factual Score: 0.8587
+Confidence Level: High factual confidence
+Estimated Tokens: 22
+
+CLAIM 3:
+Text: Apple became the first publicly traded company to reach a $3 trillion market capitalization in January 2022.
+Factual Score: 0.8859
+Confidence Level: High factual confidence
+Estimated Tokens: 22
+
+CLAIM 4:
+Text: The World Bank reported that global GDP in 2021 was approximately $94.93 trillion.
+Factual Score: 0.8732
+Confidence Level: High factual confidence
+Estimated Tokens: 17
+
+CLAIM 5:
+Text: China has been the world's largest manufacturing country by output since 2010, producing 28.7% of global manufacturing value in 2021.
+Factual Score: 0.8528
+Confidence Level: High factual confidence
+Estimated Tokens: 26
+
+
+Batch Summary:
+--------------------
+Total Tokens: 107
+Estimated Cost: $0.0001
+
+======================================================================
+FACT VERIFICATION REPORT: CLAUDE-3-HAIKU ON BUSINESS & ECONOMICS
+======================================================================
+
+Summary Statistics:
+--------------------
+Total claims analyzed: 5
+Average factual score: 0.8647
+Median factual score: 0.8587
+Std deviation: 0.0145
+Min score: 0.8526
+Max score: 0.8859
+
+Confidence Level Distribution:
+--------------------
+High factual confidence: 5 claims (100.0%)
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+======================================================================
+FINAL SESSION STATISTICS
+======================================================================
+
+Total Claims Processed: 25
+Total Estimated Tokens: 584
+Total Estimated Cost: $0.0028
